@@ -1,0 +1,16 @@
+body{
+    
+    width: 80%;
+    margin-left: 40%;
+}
+.form
+{
+
+    width: 300px;
+    justify-content: center;
+    align-content: center;
+}
+table, th, td {
+    border: 1px solid black;
+    margin-left: -40%;
+  }
